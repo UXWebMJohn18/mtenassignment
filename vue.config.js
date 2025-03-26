@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 
 module.exports = defineConfig({
-  publicPath: '/mtenassignment/'
+  publicPath: '/vue-pages/'
 })
